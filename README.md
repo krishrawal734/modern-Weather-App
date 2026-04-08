@@ -6,8 +6,7 @@ A modern and responsive Weather Application built with React + Vite that provide
 ---
 
 ## 🚀 Live Demo
-
-https://sunshine-sleuth.lovable.app/
+https://modern-weather-app-nine.vercel.app/
 
 ---
 
